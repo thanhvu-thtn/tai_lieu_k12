@@ -1,0 +1,251 @@
+﻿
+Câu 1. Chuyển động có giới hạn trong không gian, được lặp đi lặp lại quanh một vị trí cân bằng nào đó được gọi là
+A. dao động.
+B. giao thoa.
+C. cân bằng bền.
+D. cân bằng không bền.
+ANSWER: A
+
+
+Câu 2. Một chất điểm đang dao động tuần hoàn với tần số f  (Hz) và chu kì T (s). Chỉ ra mối liên hệ đúng của hai đại lượng này.
+A. \(T\times f^2=1\).
+B. \(T^2\times f = 1\).
+C. \(T\times f = 1\).
+D. \(\dfrac{T}{f}=1\).
+ANSWER: C
+
+Câu 3. Một chất điểm đang dao động tuần hoàn. Trong 30 s chất điểm thực hiện được 60 dao động. Chu kì dao động của chất điểm là
+A. 2 s.
+B. 0,5 s.
+C. 1 s.
+D. 1,5 s.
+ANSWER: B
+
+Câu 4. Một chất điểm đang dao động tuần hoàn. Trong 60 s chất điểm thực hiện được 90 dao động. Tần số dao động của chất điểm là
+A. 0,67 Hz.
+B. 1 Hz.
+C. 2 Hz.
+D. 1,5 Hz.
+ANSWER: D
+
+Câu 5. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(A>0\) và \(\omega>0\). Đại lượng nào sau đây được gọi là li độ dao động?
+A. \(\varphi\).
+B. \(A\).
+C. \(x\).
+D. \(\omega\).
+ANSWER: C
+
+Câu 6. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(A>0\) và \(\omega>0\). Đại lượng nào sau đây được gọi là biên độ dao động?
+A. \(\varphi\).
+B. \(A\).
+C. \(x\).
+D. \(\omega\).
+ANSWER: B
+
+Câu 7. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(A>0\) và \(\omega>0\). Đại lượng nào sau đây là tần số góc của dao động?
+A. \(\varphi\).
+B. \(A\).
+C. \(x\).
+D. \(\omega\).
+ANSWER: D
+
+Câu 8. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(A>0\) và \(\omega>0\). Đại lượng nào sau đây là pha ban đầu của dao động?
+A. \(\varphi\).
+B. \(A\).
+C. \(x\).
+D. \(\omega\).
+ANSWER: A
+
+Câu 9. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(A>0\) và \(\omega>0\). Đại lượng \(\left(\omega t + \varphi\right)\) được gọi là
+A. pha ban đầu của dao động.
+B. pha của dao động.
+C. biên độ của dao động.
+D. tần số góc của dao động.
+ANSWER: B
+
+Câu 10. Một chất điểm đang dao động trên trục Ox với phương trình \(x=A\cos \left( \omega t+\varphi  \right)\), với \(\omega>0\). Chu kì của dao động được tính bằng công thức nào sau đây?
+A. \(T = \dfrac{\omega}{\pi}\).
+B. \(T = \dfrac{\omega}{2\pi}\).
+C. \(T = \frac{2\pi}{\omega}\).
+D. \(T = \frac{\pi}{\omega}\).
+ANSWER: C
+
+Câu 11: Phương trình dao động điều hòa của vật là \(x=4\cos \left( 8\pi t+\frac{\pi }{6} \right)(cm)\), với x tính bằng cm, t tính bằng s. Chu kì dao động của vật là:
+  A. 0,25 s.
+  B. 4 s.
+  C. 0,125 s.
+  D. 0,5 s.
+  ANSWER: A
+  
+Câu 12: Một chất điểm dao động tuần hoàn với chu kì bằng 0,2s. Biết rằng trong 4s, chất điểm đi được quãng đường dài 2m. Độ dài quỹ đạo chuyển động của chất điểm là
+  A. 40 cm.
+  B. 5 cm.
+  C. 10 cm.
+  D. 20 cm.
+  ANSWER: B
+  
+Câu 13: Một vật dao động điều hòa. Khi pha dao động của vật bằng \(\dfrac{\pi }{6}\) thì li độ dao động của vật bằng \(3\sqrt{3}cm.\)Biên độ dao động của vật bằng:
+  A. 6 cm.
+  B. 12 cm.
+  C. 8 cm.
+  D. 9 cm.
+  ANSWER: A
+  
+Câu 14: Một vật dao động điều hòa với biên độ bằng 10 cm. Khi vật có li độ bằng 5 cm thì pha của dao động có thể nhận giá trị nào trong các giá trị dưới đây?
+  A. \(\frac{5\pi }{6}\)rad.
+  B. \(\frac{-5\pi }{6}\) rad.
+  C. \(\frac{2\pi }{3}\) rad.
+  D. \(\frac{\pi }{3}\) rad.
+  ANSWER: D
+  
+Câu 15: Một người quan sát một quả lắc đồng hồ dao động trong 3 phút thấy quả nặng thực hiện được vừa đúng 90 dao động. Biết biên độ dao động của quả nặng là 5cm. Tốc độ chuyển động trung bình của quả nặng trong quãng thời gian 2s bất kì là
+  A. 10 cm/s.
+  B. 4 cm/s.
+  C. 8 cm/s.
+  D. 16 cm/s.
+  ANSWER: A
+  
+Câu 16. Một chất điểm dao động điều hòa có phương trình \(x = -4\cos\left(2\pi t\right)\) cm, biên độ dao động là  
+	A. -4 cm.
+	B. 4 cm.
+	C. 6,28 cm.
+	D. 2 cm.
+ANSWER: B
+
+Câu 17. Một chất điểm dao động theo phương trình \(x=6\cos\left(\pi t + \dfrac{\pi}{2}\right)\) cm. Dao động của chất điểm có chiều dài quỹ đạo là 
+	A. 6 cm.
+	B. 3 cm.
+	C. 12 cm.
+	D. 24 cm.
+ANSWER: C
+
+Câu 18. Một chất điểm dao động theo phương trình \(x=3\cos\left(\pi t + \dfrac{\pi}{2}\right)\) cm. Dao động của chất điểm có chu kì là là 
+	A. 1 s.
+	B. 2 s.
+	C. 3,14 s.
+	D. 0,5 s.
+ANSWER: D
+
+Câu 19. Chất điểm dao động điều hòa với phương trình \(x=5\cos\left(10\pi -\dfrac{\pi}{2}\right)\) cm. Tần số của dao động là 
+	A. 5 Hz.
+	B. 10 Hz.
+	C. 31,4 Hz.
+	D. 0,2 Hz.
+ANSWER: A
+
+Câu 20. Chất điểm dao động điều hòa với phương trình \(x=5\cos\left(\pi t-\dfrac{\pi}{2}\right)\) cm. Tại thời điểm \(t=2\) s, pha dao động của chất điểm là 
+	A. \(\dfrac{\pi}{2}\) rad.
+	B. \(\pi\) rad.
+	C. \(\frac{3\pi }{2}\) rad.
+	D. \(2\pi\) rad.
+ANSWER: C
+
+Câu 21. Một chất điểm dao động điều hòa với phương trình li độ \(x=2\cos \left( 2\pi t+\frac{\pi }{2} \right)\) (x tính bằng cm, t tính bằng s). Tại thời điểm \(t=0,25\) s, chất điểm có li độ bằng 
+	A.  2 cm.
+	B. \(\sqrt{3}\)cm.
+	C. \(-\sqrt{3}\) cm.
+	D. – 2 cm.
+ANSWER: D
+Câu 22. Một chất điểm dao động điều hòa, với biên độ 10 cm và tần số 2 Hz. Biết rằng pha ban đầu của chất điểm bằng π rad. Li độ của vật tại thời điểm t = 0,5 s là
+	A. –5 cm .
+	B. –10 cm.
+	C. 5 cm.
+	D. 10 cm.
+ANSWER: B
+
+Câu 23. Vật dao động với li độ \(x=3\cos \left( 4\sqrt{3}\pi t-\pi  \right)\) cm, li độ của vật khi có pha dao động bằng π/6 rad là
+	A. 2,598 cm.
+	B. 1,5 cm.
+	C. 2,924 cm.
+	D. 2,653 cm.
+ANSWER: A
+
+Câu 24. Chất điểm dao động điều hòa với phương trình \(x = 6\cos\left(10t - \dfrac{3\pi}{2}\right)\) cm. Li độ của chất điểm khi pha dao động bằng \(\dfrac{2\pi}{3}\) rad là 
+	A. 3 cm.
+	B. \(3\sqrt3\) cm.
+	C. x = –3 cm.
+	D. \(-3\sqrt3\) cm.
+ANSWER: C
+
+Câu 25. Chất điểm dao động điều hòa với phương trình \[x=12\cos \left( 10t-\frac{\pi }{6} \right)\] cm.  Khi li độ của chất điểm bằng 6 cm thì pha dao động bằng bao nhiêu? 
+	A. \(\dfrac{5\pi }{6}\) rad hoặc \(\frac{\pi}{6}\) rad.
+	B. \(\dfrac{\pi }{6}\) rad hoặc \(\frac{2\pi}{3}\) rad.
+	C. \(\dfrac{2\pi }{3}\) rad hoặc \(-\dfrac{2\pi}{3}\) rad.
+	D. \(\dfrac{5\pi }{6}\) rad hoặc \(-\dfrac{2\pi}{3}\) rad.
+ANSWER: C
+
+Câu 26. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Biên độ dao động của vật là
+A. 2,5 cm.
+B. -2,5 cm.
+C. 5 cm.
+D. -5 cm.
+ANSWER: C
+Câu 27. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Chu kì dao động của vật là
+A. 0,15 s.
+B. 0,75 s.
+C. 0,9 s.
+D. 0,6 s.
+ANSWER: D
+
+Câu 28. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Chu kì dao động của vật là
+A. 1,2 s.
+B. 0,6 s.
+C. 0,8 s.
+D. 0,4 s.
+ANSWER: A
+
+Câu 29. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Tại thời điểm \(t=0\), vật có li độ là
+A. 0,707 cm.
+B. 0,500 cm.
+C. 0,866 cm.
+D. 0,400 cm.
+ANSWER: B
+
+Câu 30. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Tại thời điểm \(t=0\), vật có li độ là
+A. 1,2 s.
+B. 0,6 s.
+C. 0,8 s.
+D. 0,4 s.
+ANSWER: A
+
+Câu 31. Một vật đang dao động điều hòa trên trục Ox. Đồ thị li độ của vật theo thời gian như hình vẽ. Tại thời điểm \(t=0,8\)s, 
+A. vật có li độ 1,41 cm và đang chuyển động theo chiều dương.
+B. vật có li độ 1,0 cm và đang chuyển động theo chiều dương.
+C. vật có li độ 1,41 cm và đang chuyển động theo chiều âm.
+D. vật có li độ 1,0 cm và đang chuyển động theo chiều âm.
+ANSWER: C
+
+Câu 32. Một vật đang dao động điều hòa trên trục Ox với biên độ A và chu kì T. Tìm thời gian ngắn nhất để vật chuyển động từ vị trí cân bằng đến vị trí biên.
+A. \(\dfrac{T}{2}\).
+B. \(\dfrac{T}{4}\).
+C. \(\dfrac{T}{3}\).
+D. \(\dfrac{T}{6}\).
+ANSWER: B
+
+Câu 32. Một vật đang dao động điều hòa trên trục Ox với biên độ 8 cm và chu kì 0,6 s. Tìm thời gian ngắn nhất để vật chuyển động từ vị trí cân bằng đến vị trí có li độ \(x=4\) cm.
+A. 0,3 s.
+B. 0,2 s
+C. 0,15 s
+D. 0,1 s.
+ANSWER: D
+
+Câu 33. Một vật đang dao động điều hòa trên trục Ox với phương trình \(x=10\cos\left(\dfrac{50\pi}{3}t+\dfrac{\pi}{3}\right)\) cm. Tìm thời gian kể từ lúc vật bắt đầu dao động đến lúc vật có li độ \(x = -5\) cm lần đầu tiên.
+A. 0,06 s.
+B. 0,03 s.
+C. 0,02 s.
+D. 0,01 s.
+ANSWER: C
+
+Câu 34. Một vật đang dao động điều hòa trên trục Ox với phương trình \(x=8\cos\left(5\pi t\right)\) cm. Tìm thời điểm đầu tiên vật có li độ \(x = - 4\sqrt2\) cm và đang chuyển động theo chiều dương.
+  A. 0,05 s.
+  B. 0,10 s.
+  C. 0,20 s
+  D. 0,25 s.
+ANSWER: D
+
+Câu 35. Một vật đang dao động điều hòa trên trục Ox với phương trình \(x = 10\cos\left(2\pi t + \dfrac{\pi}{2}\right)\) cm. Tìm tốc độ trung bình của vật khi nó di chuyển từ vị trí có li độ \(x_1=5\) cm đến vị trí có li độ \(x_2=-5\) cm.
+A. 60 cm/s.
+B. 40 cm/s.
+C. 25 cm/s.
+D. 10 cm/s.
+ANSWER: A
